@@ -3,7 +3,7 @@
 Enhance Just In Time's supply chain efficiency by leveraging Business Intelligence (BI) techniques to identify and address shipment and inventory management challenges.
 
 **Tasks:**
-1) Data Acquisition and Cleaning: Obtain and pre-process real-world supply chain data from Just In Time's internal systems.
+1) Data Preprocessing: Obtain and pre-process real-world supply chain data from Just In Time.
 2) Data Analysis: Analyze the data to identify inefficiencies in areas such as:
 - Shipment Delays: Analyze historical shipment data to identify patterns and causes of delays.
 - Inventory Management: Evaluate inventory levels to identify potential stockouts or overstocking issues.
