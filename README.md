@@ -1,5 +1,5 @@
 # Supply chain analysis:
-**Project description:** \\
+**Project description:** 
 Enhance Just In Time's supply chain efficiency by leveraging Business Intelligence (BI) techniques to identify and address shipment and inventory management challenges.
 
 **Tasks:**
