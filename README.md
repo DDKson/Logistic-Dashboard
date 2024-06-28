@@ -14,7 +14,7 @@ Enhance Just In Time's supply chain efficiency by leveraging Business Intelligen
 
 
 
-**Requirement: **
+**Requirement:**
 Build visulizations in Tableau or Power BI to analyze supply versus demand ratio, over or understock, and shipment delays. 
 
 **Dashboard screenshot:**
