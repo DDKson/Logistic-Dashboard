@@ -1,5 +1,5 @@
 # Supply chain analysis:
-**Project description:**
+**Project description:** \\
 Enhance Just In Time's supply chain efficiency by leveraging Business Intelligence (BI) techniques to identify and address shipment and inventory management challenges.
 
 **Tasks:**
@@ -11,6 +11,8 @@ Enhance Just In Time's supply chain efficiency by leveraging Business Intelligen
 3) Dashboard Creation: Develop interactive dashboards to visualize key supply chain metrics and insights. These dashboards will be used to:
 - Inform Stakeholders: Communicate potential problems and opportunities for improvement to key decision-makers within Just In Time.
 - Support Business Decisions: Provide data-driven insights to support strategic decisions related to shipment routing, inventory optimization, and supplier selection.
+
+
 
 **Requirement: **
 Build visulizations in Tableau or Power BI to analyze supply versus demand ratio, over or understock, and shipment delays. 
