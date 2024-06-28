@@ -3,12 +3,12 @@ Project description:
 Enhance Just In Time's supply chain efficiency by leveraging Business Intelligence (BI) techniques to identify and address shipment and inventory management challenges.
 
 Tasks:
-* Data Acquisition and Cleaning: Obtain and pre-process real-world supply chain data from Just In Time's internal systems.
-* Data Analysis: Analyze the data to identify inefficiencies in areas such as:
+1) Data Acquisition and Cleaning: Obtain and pre-process real-world supply chain data from Just In Time's internal systems.
+2) Data Analysis: Analyze the data to identify inefficiencies in areas such as:
 - Shipment Delays: Analyze historical shipment data to identify patterns and causes of delays.
 - Inventory Management: Evaluate inventory levels to identify potential stockouts or overstocking issues.
 - Supplier Performance: Assess supplier reliability and identify opportunities for improvement.
-* Dashboard Creation: Develop interactive dashboards to visualize key supply chain metrics and insights. These dashboards will be used to:
+3) Dashboard Creation: Develop interactive dashboards to visualize key supply chain metrics and insights. These dashboards will be used to:
 - Inform Stakeholders: Communicate potential problems and opportunities for improvement to key decision-makers within Just In Time.
 - Support Business Decisions: Provide data-driven insights to support strategic decisions related to shipment routing, inventory optimization, and supplier selection.
 
